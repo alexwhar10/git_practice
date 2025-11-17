@@ -9,5 +9,9 @@ Successfully pushed to GitHub!
 Learning Git and GitHub for the first time!
 
 ## Features
-_ Calculator with basic math operations
-_ Error handling for division by zero
+- Calculator with basic math operations
+- Error handling for division by zero
+
+## Technologies
+- Python 3
+- Git & GitHub
