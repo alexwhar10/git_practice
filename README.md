@@ -23,3 +23,8 @@ Learning Git and GitHub for the first time!
 # Testing Branch Protection
 
 This change should be blocked by branch protection!
+
+# Contributions
+## Annie Meacham
+- Added percentage function
+- Date: 11/19/2025
