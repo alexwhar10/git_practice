@@ -4,4 +4,5 @@
 - Practiced staging and committing changes.
 - Reviewed how to push updates to GitHub.
 - Added from GitHub
+- Added from VSCode
 
